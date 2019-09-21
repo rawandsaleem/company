@@ -56,7 +56,7 @@ header{
 	    
 	    
 	    	   
-	    background-image:/*linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.8)) ,*/url(../images/index7.jpg) ;
+	    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)) ,url(../images/solar.jpg) ;
 	    height: 625px;
 	    width: 100%;
 	    background-size: 100%;
@@ -102,11 +102,11 @@ a{
 a:hover{
 	
 
-	color: #d4a519;
+	color: #fff;
 }
 .logo img{
-	width: 100px;
-	height: 100px;
+	width: 50px;
+	height: 50px;
 }
 .title{
 	font-family: Raleway;
@@ -174,19 +174,27 @@ a:hover{
 .numb{
 	
 	margin: 10px;
-	padding: 10px;
+	padding: 20px;
 	font-family: walter;
 	width: 30%;
+	text-align: center;
 
 
+
+}
+#head3 {
+	
+	
 }
 .numb h2{
 	font-size: 50px;
 	color:  #FAB909;
+	
 
 }
 .numb p{
 	color: #000000b5;
+	text-align: center;
 
 }
 footer{
